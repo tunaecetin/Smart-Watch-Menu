@@ -10,7 +10,7 @@ This project is a basic smartwatch simulation written in Java.
 
 ## How to Run
 1. Open project in any Java IDE
-2. Run the main class (COMP1111Proje.java)
+2. Run the main class (BasicSmartWatch.java)
 
 ## Author
 tunaecetin
